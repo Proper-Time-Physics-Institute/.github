@@ -4,6 +4,18 @@
 
 We take the framework seriously enough to *test it* — derivation by derivation, against the published record and against precision data — and we publish what we find, whichever way it goes. So far, what we have found is that **the framework is empirically refuted**: every sector tested either reduces to standard physics exactly or deviates and is excluded by existing data.
 
+| Contents | |
+|---|---|
+| [🎯 What we do](#-what-we-do) | the derive → compute → adversarially-verify → publish pipeline |
+| [📌 What we've established](#-what-weve-established) | the verdict, sector by sector |
+| [📊 Experimental scoreboard](#-experimental-scoreboard) | every adjudicated comparison: exclusions and identities |
+| [❓ Open questions](#-open-questions-for-the-programs-authors) | where closure is conditional on an author's answer |
+| [🌳 What happens next](#-what-happens-next--the-response-decision-tree) | the pre-registered decision tree for those answers |
+| [🗂 Repository map](#-repository-map) | where everything lives |
+| [🧭 How the org runs](#-how-the-org-runs) | the operating rules |
+| [📍 Where things stand](#-where-things-stand-august-2026) | status as of August 2026 |
+| [📖 Glossary](#-glossary) | every symbol and shorthand, in plain language |
+
 ---
 
 ## 🎯 What we do
