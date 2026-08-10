@@ -59,6 +59,21 @@ Every quantitative comparison the program has adjudicated. "Framework" values ar
 
 **Program verdict:** no distinct surviving prediction; the org's real assets are its verification discipline, its errata, and its structural rule-outs — and those are exactly what we are writing up.
 
+## ❓ Open questions for the program's authors
+
+The pipeline's fourth outcome — precisely-stated open questions routed back to the framework's authors. These are the places where the program's closure is *conditional* and an author's answer (or a one-page result) changes the conclusion:
+
+| # | Question | What's established | What would resolve it |
+|---|---|---|---|
+| 1 | **"QED III" — does a genuine dual photon propagator D_dual(k) exist?** | a_e is not derivable by probes P0–P6; the problem is now a well-posed constraint set (C0–C3 + C3′, anchored by bound-state g-factor data to 8.5×10⁻¹⁰). Panel-confirmed: source-independent kernels deliver ≤ 9.7×10⁻⁴ of the bound (Zα)² term, and an acceleration-gated kernel is not a Fock two-point function | A construction satisfying C0–C3 + C3′ outside the closed branches — or acceptance that a_e is inherited from QED |
+| 2 | **Gap G3 — the cross-coupling loophole** | D_dual ≡ 0 in *every* quantization of the Bateman system (theorem, panel-confirmed) — but the panel found a 2-parameter family of stationary cross moments with an exponentially growing commutator branch [y(τ), x(0)] | A one-page-scale result: either the growing branch makes every stationary cross kernel inadmissible (Route F closes, caveat G1 only), or some admixture furnishes a finite admissible kernel — which would be a major *positive* finding |
+| 3 | **Gap G1 — multimode, τ-dependent gating** | The single-mode, constant-Γ reduction (assumption A1, inherited from the a_e probe series) is unjustified for bound orbits, where g(τ) = (u·a)/b⁴ varies along the orbit | A derivation of the mode reduction for bound orbits, or a multimode version of the no-go |
+| 4 | **The factor-2 fork — which g-factor algebra is intended?** | The published g_r chain contradicts the paper's own Eq. (III.8) by a factor of 2 — unconditional, whichever side is blamed. If (III.8) stands, the corrected formula g_r(x) = 2(2x−1)/(2x+1) cannot reach the electron g for any r_e > 0 | The authors adjudicate the E-5 correction: affirm (III.8) (the back-fit dies) or repair the chain some third way |
+| 5 | **t- vs τ-reading of the spectral operator K_D** | The exact map admits exactly two readings: the t-reading is identical to Dirac/QED (predicts nothing new); the τ-reading gives parameter-free shifts excluded at 10³–10⁹σ | The authors state which reading the framework intends — both horns are closed, so the choice selects *which* closure applies |
+| 6 | **TCEP Eq. (4.15) — is there a surviving derivation?** | (4.15) was never independently derived; under the standard dk′/dτ transformation the group-velocity non-invariance claim dissolves (the (4.16) sign erratum stands separately) | A derivation of (4.15) that does not reduce to the standard transformation — or withdrawal of the claim |
+
+**One clean experiment falls out of #1:** if the a_e route is rescued by an acceleration-gated kernel, it predicts a trap-field-linear shift δa_e ≈ 3.7–4.1×10⁻¹³ at 5.36 T (slope 7.7×10⁻¹⁴/T) — so measuring the a_e(B) slope against zero is a model-independent null test of the entire gated-kernel hypothesis, unconstrained by existing single-field data.
+
 ## 🗂 Repository map
 
 | Repo | Role |
