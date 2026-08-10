@@ -76,6 +76,34 @@ The pipeline's fourth outcome — precisely-stated open questions routed back to
 
 **One clean experiment falls out of #1:** if the a_e route is rescued by an acceleration-gated kernel, it predicts a trap-field-linear shift δa_e ≈ 3.7–4.1×10⁻¹³ at 5.36 T (slope 7.7×10⁻¹⁴/T) — so measuring the a_e(B) slope against zero is a model-independent null test of the entire gated-kernel hypothesis, unconstrained by existing single-field data.
 
+## 🌳 What happens next — the response decision tree
+
+Each open question above is pre-registered as a fork. The analysis already closed *both* horns of each question, so an author's answer doesn't reopen research — it selects which verified result becomes operative. Every branch obeys the same invariants: new claims are panelled before we rely on them, nothing ships externally without sign-off, no verdict is upgraded because a conversation went well — and **silence is a handled case on every branch**, so the program never blocks on a response.
+
+**A — The factor-2 fork** *(question 4; the most consequential answer)*
+- ✅ *Affirm Eq. (III.8)* → the published chain is the wrong side; the corrected formula governs; the back-fit is dead; the falsification note becomes unconditional on its central pillar
+- 🔁 *Defend the chain / propose a third repair* → the repair is a new mathematical claim: its own track, a 3-lens adversarial panel, and a re-run of the back-fit solvability scan against it
+- 🕐 *No answer* → publish with the fork documented — the contradiction itself is unconditional whichever side is blamed
+
+**B — t- vs τ-reading of K_D** *(question 5; cheap to answer, clarifies every downstream paper)*
+- *t-reading* → the framework is identical to Dirac/QED and predicts nothing new; we cite the equivalence
+- *τ-reading* → the parameter-free exclusions (10³–10⁹σ) apply; we cite the falsification
+- *A third reading* → new physics content: formalize it, panel it, re-derive the observables
+
+**C — QED III / a dual photon propagator** *(questions 1–3; the only branch that can produce a positive result)*
+- 📥 *A construction is supplied* → run the Spec A constraint harness (C0–C3 + C3′), apply the two panel-confirmed kill tests (source-independent kernels deliver ≤ 9.7×10⁻⁴ of the bound term; gated kernels aren't Fock two-point functions), and check it threads gap G3 — with acceptance criteria fixed *before* we see the candidate, so no goalposts move in either direction
+- 🚫 *None* → the a_e story publishes as the honest capstone: inherited from QED, all articulated escape routes closed modulo G1 + G3
+
+**D — Proper-Time gravity** *(cost-gated, cheapest check first)*
+- Any candidate must first be shown to sit *outside* the potential-in-mass kernel class — which already fails light bending and Shapiro delay for every coupling — then pass, in order: light bending at the Cassini bound → Shapiro sign → Mercury +42.99″/century. No panel investment until the free paper-checks pass
+- *Not pursued* → the Mercury −1/6 Research Note proceeds unchanged
+
+**E — TCEP group velocity** *(question 6; smallest branch)*
+- *Withdraw* → folded into the E-3w erratum as author-accepted
+- *A new derivation* → must live outside both panel-dissolved readings; panel before anything else
+
+The design intent: author input is *valuable* — it can flip which paper gets written, or open the program's first positive finding — but never *load-bearing*. If the submission gate arrives with no response, the record publishes as it stands.
+
 ## 🗂 Repository map
 
 | Repo | Role |
