@@ -21,12 +21,41 @@ The output is one of four honest outcomes: an **exact equivalence** with standar
 
 Two months of org-wide review (32 adversarial panel verdicts) plus a follow-up Tier 1–4 research campaign (27 verdicts) converge on a clear picture:
 
-- **Kinematics** — b = γc *exactly*: the "collaborative speed" is celerity bookkeeping, not a new signal speed; proper-time GPS/time-dilation agreement is agreement-by-construction
-- **Classical electromagnetism** — the proper-time Liénard–Wiechert field is *identically* the classical field (no third-term signature, no longitudinal radiation); the proper-time radiation-reaction force is exactly Lorentz–Abraham–Dirac, runaways included
+- **Kinematics** — b = γc *exactly*: the "collaborative speed" is celerity bookkeeping, not a new signal speed
+- **Classical electromagnetism** — the proper-time Liénard–Wiechert field is *identically* the classical field (no third-term signature, no longitudinal radiation); the radiation-reaction force is exactly Lorentz–Abraham–Dirac, runaways included
 - **QED** — the electron anomalous moment a_e is inherited from QED, not derived (probes P0–P6 all close); the celebrated closed form r_e/r₀ = (2−a_e)/(2(2+a_e)) is an algebraic identity, and the six-observable "triangulation" is one back-fit applied six times
-- **Gravity** — the dual Newtonian force law gives exactly **−1/6 of GR's Mercury perihelion advance** (wrong sign, one-sixth magnitude): a structural rule-out. Corda's πm/M "precession" is refuted by Bertrand's theorem
-- **Precision spectroscopy (the falsifier)** — the published g-factor chain contradicts the paper's own Eq. (III.8) by a factor of 2, and the internally consistent corrected formula g_r(x) = 2(2x−1)/(2x+1) has range (−2, 2), so **no cutoff r_e > 0 can reproduce the measured electron g**. Evaluated self-consistently, the framework's own operators predict a **+30.6% universal s-state hyperfine anomaly** — +435.2 MHz on the 21-cm line, **1088×** our own conservative precision floor — and the joint (g, 21-cm) system has no solution
+- **Gravity** — the dual Newtonian force law gives exactly **−1/6 of GR's Mercury perihelion advance**; Corda's πm/M "precession" is refuted by Bertrand's theorem
+- **Precision spectroscopy (the falsifier)** — the published g-factor chain contradicts the paper's own Eq. (III.8) by a factor of 2; the internally consistent corrected formula g_r(x) = 2(2x−1)/(2x+1) has range (−2, 2), so **no cutoff r_e > 0 can reproduce the measured electron g**; and the framework's own operators, evaluated self-consistently, predict a **+30.6% universal s-state hyperfine anomaly** excluded by existing data
 - **The published record** — erratum-grade corrections proven against the sources: Gill–Zachary Eq. (24) (missing c and V²/2mc² terms), DRQM-I §III.D (published r_e gives g = −2.00057, not −2.00232), TCEP Eq. (4.16) (sign), DRQM-I's (III.8)→(a,b,c) factor-2, and a corrigendum case for J. Phys. Conf. Ser. 2482 (2023), which reprints the erroneous equations
+
+## 📊 Experimental scoreboard
+
+Every quantitative comparison the program has adjudicated. "Framework" values are the framework's **own operators and formulas evaluated self-consistently** at its published cutoff; every row below is adversarial-panel-confirmed.
+
+**Where it deviates, it is excluded:**
+
+| Observable | Measured | Framework | Margin |
+|---|---|---|---|
+| Mercury perihelion advance | +42.99″/century (obs. ≈ 43″) | **−7.17″/century** (exactly −Δφ_GR/6, eccentricity-independent) | wrong sign, ⅙ magnitude — structural rule-out |
+| Venus / Earth perihelion residuals (Corda πm/M) | observed residuals | 30× / 51× over-prediction | excluded; not a precession (Bertrand) |
+| Electron g — published back-fit (DRQM-I §III.D) | −2.002 319 304 362 56 | −2.000 571 48 from the published r_e/r₀ | off by 1.7×10⁻³ → erratum E-2 |
+| Electron g — corrected algebra | −2.002 319 304 362 56 | g_r(x) = 2(2x−1)/(2x+1), range (−2, 2) | **no solution for any r_e > 0** |
+| Free a_e — any static propagator modification at the r_e scale | a_e experimental tolerance | shift of 514–40 000× tolerance | excluded |
+| H 21-cm hyperfine — corrected (III.20) | 1 420 405 751.768(2) Hz | **+435.2 MHz (+30.6%)** | **1088×** the campaign floor — the falsifying line |
+| Muonium hyperfine — corrected (III.20) | 4 463 302 776(51) Hz | +1 367.5 MHz (the same universal +30.6%) | excluded |
+| H 1S–2S — (III.19) μ² channel | 2 466 061 413 187 035(10) Hz | +182.4 kHz | ≥10³× the campaign floor |
+| H–D isotope shift — (III.19) μ² scaling | measured at the ~15 Hz level | ~165 kHz anomaly | ~10⁴× |
+| Parameter-free τ-reading of the exact spectral map K_D | 1S–2S · 21-cm · muonium HFS | −41.06 GHz · −37.8 kHz · −118.8 kHz | excluded at 10³–10⁹σ (muonium: 2330σ) |
+
+**Where it agrees, it agrees by identity** — the framework reduces to standard physics exactly, so agreement carries no evidential weight:
+
+| Observable | Result |
+|---|---|
+| GPS clock rates (+38.54 μs/day) | reproduced via b = γc — agreement-by-construction |
+| Time dilation, velocity composition | identical to special relativity |
+| Liénard–Wiechert radiation fields | identically the classical field (symbolic residual ≡ 0) |
+| Radiation reaction | exactly Lorentz–Abraham–Dirac, runaway/pre-acceleration dichotomy intact |
+| Free-electron a_e with D = 1/k² | QED's α/2π inherited, not derived |
 
 **Program verdict:** no distinct surviving prediction; the org's real assets are its verification discipline, its errata, and its structural rule-outs — and those are exactly what we are writing up.
 
