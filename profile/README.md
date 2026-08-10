@@ -103,4 +103,48 @@ Split from the former `PyPhysics` monorepo (archived, read-only) with per-file h
 - 🔄 **In preparation, drafted and adversarially verified, awaiting author sign-off:** the Mercury −1/6 Comment (GRG Research Note), the T2b hyperfine falsification note, and the errata packet (E-1 / E-2 / E-3w / E-5 + JPCS corrigendum). DRQM-I is unpublished and its correction is co-author self-correction
 - 🗓 Coordination: the human decision queue and the realignment overview live in **[commons](../../commons)** issues
 
+## 📖 Glossary
+
+**Physics terms and symbols**
+
+| Term | Meaning |
+|---|---|
+| **τ** (proper time) | Time as measured by a clock riding along with the particle — as opposed to coordinate time t measured by a stationary observer. The framework's central move is to use τ as the evolution parameter |
+| **γ** (Lorentz factor) | 1/√(1 − u²/c²) — how much special relativity dilates time and contracts length at speed u |
+| **b = √(c² + u²)** | The framework's "collaborative speed." Our result: b = γc exactly — it is the temporal component of the standard proper velocity (celerity), i.e. relabeled bookkeeping, not a new speed |
+| **celerity** | Proper velocity dx/dτ = γu: distance per unit *proper* time. Can exceed c without violating relativity |
+| **g-factor** | A particle's dimensionless magnetic strength. Dirac's equation predicts exactly g = −2 for the electron; the measured value is −2.002 319 304 362 56 |
+| **a_e** (electron anomalous magnetic moment) | The tiny amount by which the electron's magnetism exceeds Dirac's prediction: a_e = (\|g\| − 2)/2 ≈ 0.001 159 652. QED derives it from first principles (leading term α/2π) and it matches measurement to ~12 digits — the most stringent test in physics. The framework claims to *derive* a_e from an electron-radius cutoff; we found the claim reduces to fitting one parameter to the measured answer |
+| **α** (fine-structure constant) | ≈ 1/137, the dimensionless strength of electromagnetism; α/2π ≈ 0.00116 is QED's famous leading contribution to a_e |
+| **r_e, r₀** | The framework's electron-radius cutoff parameter and the classical electron radius; their ratio is the framework's one free knob |
+| **back-fit** | Tuning a free parameter to reproduce a measured number, then citing agreement with that number as a prediction. One back-fit reused six times is still one fit |
+| **K = H²/2mc² + mc²/2** | The framework's positive-definite Hamiltonian, generating evolution in τ; **K_D** is its exact version built from the Dirac Hamiltonian |
+| **hyperfine structure (HFS)** | Tiny energy splittings from the magnetic interaction between an electron and the nucleus. The **21-cm line** (1 420 405 751.768 Hz) is hydrogen's hyperfine transition — one of the most precisely known frequencies in science |
+| **muonium** | An "atom" made of an electron orbiting an antimuon — hydrogen-like but with no nuclear structure, so an exceptionally clean QED test bench |
+| **1S–2S** | Hydrogen's sharpest optical transition, measured to 15 digits (2 466 061 413 187 035(10) Hz) |
+| **perihelion advance** | The slow rotation of an orbit's point of closest approach. Mercury's anomalous +43″/century (arcseconds per century) was general relativity's first great confirmation |
+| **Liénard–Wiechert (LW) field** | The exact electromagnetic field of a moving point charge in classical electrodynamics |
+| **LAD** (Lorentz–Abraham–Dirac) | The classical equation for radiation reaction — the recoil a charge feels from its own radiation — infamous for runaway solutions. The framework's version turns out to be *exactly* LAD, runaways included |
+| **propagator, D_dual(k)** | The mathematical object encoding how a quantum field transmits influence; QED's photon propagator is 1/k². "QED III" is the framework's not-yet-written dual photon propagator |
+| **Fock space** | The standard Hilbert space of photon states. "Not a Fock two-point function" = cannot come from any standard quantized field |
+| **Bateman doubling** | A trick for quantizing a damped (energy-losing) system by pairing it with a mirror-image amplifying partner |
+| **Bertrand's theorem** | Only two force laws (1/r² and Hooke's law) give closed orbits for all bound motion — the tool that refutes Corda's πm/M "precession" |
+| **σ** | Standard deviations of experimental uncertainty; "excluded at 2330σ" means the prediction misses by 2330 error bars |
+
+**Program shorthand**
+
+| Term | Meaning |
+|---|---|
+| **DRQM-I** | *Dual Relativistic Quantum Mechanics I* — the framework's central quantum-mechanics manuscript (unpublished; Morris is a co-author, so its corrections are self-correction) |
+| **TCEP** | *The Classical Electron Problem* — the framework paper containing the Eq. (4.15)/(4.16) group-velocity claims |
+| **JPCS 2482** | J. Phys. Conf. Ser. **2482** (2023) — a published conference paper that reprints the erroneous g-factor equations, hence the corrigendum case |
+| **E-1 … E-5** | The five erratum instruments: E-1 Gill–Zachary Eq. (24); E-2 DRQM-I §III.D r_e digits; E-3w TCEP (4.16) sign; E-5 DRQM-I factor-2 |
+| **P0–P6, Routes F/W/E** | The candidate routes by which a_e might be derived in the framework — each probed and closed (Route F = field-theoretic propagator route; W = Wheeler–Feynman; E = worldline) |
+| **Spec A, C0–C3 + C3′** | The formalized constraint set any dual photon propagator must satisfy: inertial exactness, positive bound response, and the measured bound-state g-factor structure |
+| **G1, G2, G3** | The numbered gaps in the a_e closure argument (see Open questions): G2 is now a proven theorem; G1 (multimode gating) and G3 (cross-coupling loophole) remain open |
+| **t-reading vs τ-reading** | The two possible physical interpretations of the framework's spectral operator: evolve in coordinate time (→ identical to Dirac/QED) or in proper time (→ excluded shifts) |
+| **campaign floor** | Our own conservative precision floor for each observable — the loosest error bar we allow ourselves when claiming an exclusion |
+| **adversarial panel** | Independent skeptic agents who try to *refute* each claim before we rely on it; verdicts are **confirmed / disputed / unresolved** and are never upgraded. Claims no panel has adjudicated are marked UNVERIFIED and quarantined from headline use |
+| **structural rule-out** | An exclusion that no parameter tuning can rescue — the failure is in the theory's form (wrong sign, wrong range), not its calibration |
+
 *"The honest path forward is to publish exactly what survived."*
