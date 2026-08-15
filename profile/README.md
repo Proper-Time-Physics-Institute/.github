@@ -2,7 +2,7 @@
 
 **An adversarial verification program for the proper-time ("dual") formulation of relativity and quantum mechanics** (T. L. Gill and collaborators) — the reformulation built on proper time τ as evolution parameter, the positive-definite Hamiltonian K = H²/2mc² + mc²/2, and the collaborative speed b = √(c² + u²).
 
-We take the framework seriously enough to *test it* — derivation by derivation, against the published record and against precision data — and we publish what we find, whichever way it goes. So far, what we have found is that **the framework is empirically refuted**: every sector tested either reduces to standard physics exactly or deviates and is excluded by existing data.
+We take the framework seriously enough to *test it* — derivation by derivation, against the published record and against precision data — and we publish what we find, whichever way it goes. So far, what we have found is that **the framework is empirically refuted**: every sector tested either reduces to standard physics exactly or deviates and is excluded by existing data — a pattern that has now hardened, across gravity, quantum coherence, and electromagnetics, into a **structural no-go**: *wherever the theory is well-defined it is inert (standard physics), and wherever it is distinctive it is excluded, with the two regimes provably disjoint.*
 
 | Contents | |
 |---|---|
@@ -34,11 +34,12 @@ The output is one of four honest outcomes: an **exact equivalence** with standar
 An org-wide review of two months of work (32 adversarial panel verdicts, 2026-07-05) plus a follow-up Tier 1–4 research campaign (27 verdicts) converge on a clear picture:
 
 - **Kinematics** — b = γc *exactly*: the "collaborative speed" is celerity bookkeeping, not a new signal speed
-- **Classical electromagnetism** — the proper-time Liénard–Wiechert field is *identically* the classical field (no third-term signature, no longitudinal radiation); the radiation-reaction force is exactly Lorentz–Abraham–Dirac, runaways included (Wolfram-verified path derivation)
+- **Classical electromagnetism** — the proper-time Liénard–Wiechert field is *identically* the classical field (no third-term signature, no longitudinal radiation); the radiation-reaction force is exactly Lorentz–Abraham–Dirac, runaways included (Wolfram-verified path derivation); and in a **dispersive medium** (Cherenkov, dispersion, the Eq. (4) dissipative term) it is again *identically* macroscopic Maxwell — the last open EM context, now closed, with the medium "bare-equation" escape hatch not merely inert but **empirically falsified** by channeling radiation-reaction data
 - **QED** — the electron anomalous moment a_e is inherited from QED, not derived (probes P0–P6 all close); the celebrated closed form r_e/r₀ = (2−a_e)/(2(2+a_e)) is an algebraic identity, and the six-observable "triangulation" is one back-fit applied six times
 - **Gravity** — the dual Newtonian force law (the paper's own V + V²/2mc² gravitational substitution) gives exactly **−1/6 of GR's Mercury perihelion advance**; Corda's πm/M "precession" is refuted by Bertrand's theorem
 - **Precision spectroscopy (the falsifier)** — the published g-factor chain contradicts the paper's own Eq. (III.8) by a factor of 2; the internally consistent corrected formula g_r(x) = 2(2x−1)/(2x+1) has range (−2, 2), so **no cutoff r_e > 0 can reproduce the measured electron g**; and the framework's own operators, evaluated self-consistently, predict a **+30.6% universal s-state hyperfine anomaly** excluded by existing data
 - **The published record** — erratum-grade corrections proven against the sources: Gill–Zachary Eq. (24) (missing c and V²/2mc² terms), DRQM-I §III.D (published r_e gives g = −2.00057, not −2.00232), the TCEP group-velocity chain (4.12)/(4.15)/(4.16) — transcription, underivability, and sign (E-3w, widened per the T1b dissolution), DRQM-I's (III.8)→(a,b,c) factor-2, and a corrigendum case for J. Phys. Conf. Ser. 2482 (2023), which reprints the erroneous equations
+- **Foundations — is proper time physically *fundamental*?** *(2026-08)* The deepest question — whether taking τ as a genuine primitive (not a reparametrization) yields *any* distinctive, viable physics — was pushed to its floor across **gravity, quantum coherence, and electromagnetics**, and across every natural and sophisticated construction (the c→b dynamics and metric readings, off-shell SHP, 2T-physics, varying-constants, entropic gravity, Tomita–Takesaki *thermal time*, objective-collapse, and the colored-noise corner). The verdict is a **structural no-go enforced by six independent mechanisms**: *well-defined ⟺ inert* — a consistent construction reduces to standard physics; a distinctive one is excluded; the regimes are disjoint. Its one hard number is a **world-class null bound, Δm/m < 9.7×10⁻²⁹** (any physical off-shell rest-mass fraction, from Sr-87 optical-clock coherence). Two genuine technical advances surfaced — 2T-physics removes the extra-time ghost, and objective-collapse is the first construction both well-defined *and* genuinely decohering — but neither escapes the no-go. Not a universal theorem, but no natural construction evades it *(8 adversarial reports; consolidation manuscript in submission prep)*
 
 ## 📊 Experimental scoreboard
 
@@ -61,6 +62,8 @@ The quantitative comparisons the program has adjudicated. "Framework" values are
 | H 1S–2S — (III.19) μ² channel | 2 466 061 413 187 035(10) Hz | +182.4 kHz | ≥10³× the campaign floor |
 | H–D isotope shift — (III.19) μ² scaling | measured at the ~15 Hz level | ~165 kHz anomaly | ~10⁴× |
 | Parameter-free τ-reading of the exact spectral map K_D | the three transitions above (1S–2S · 21-cm · muonium HFS) | −41.06 GHz · −37.8 kHz · −118.8 kHz | excluded at 10³–10⁹σ (muonium: 2330σ) |
+| Off-shell rest-mass content — proper-time-as-*fundamental* (SHP) | Sr-87 optical-clock coherence (118 s) | any physical Δm/m ≥ 9.7×10⁻²⁹ | excluded — Δ(mc²) < 7.9×10⁻¹⁸ eV, the program's sharpest null bound |
+| Binary-pulsar periastron ω̇ — proper-time dynamics (any coupling) | J0737−3039 (theory-independent mass ratio) | factor-2 miss (M²+m² vs the Mm cross term) | excluded ≈2× / requires an unphysical 2.8× mass inflation |
 
 **Where it agrees, it agrees by identity** — the framework reduces to standard physics exactly, so agreement carries no evidential weight:
 
@@ -71,8 +74,10 @@ The quantitative comparisons the program has adjudicated. "Framework" values are
 | Liénard–Wiechert radiation fields | identically the classical field (symbolic residual ≡ 0) |
 | Radiation reaction † | exactly Lorentz–Abraham–Dirac, runaway/pre-acceleration dichotomy intact |
 | Free-electron a_e with D = 1/k² | QED's α/2π inherited, not derived |
+| Cherenkov / dispersion in a medium | identically macroscopic Maxwell (b and c/n never compete) |
+| Einstein-delay γ in a binary pulsar (1PN) | reproduces GR exactly via the c/b clock identity (a reinterpretation, not a new signal) |
 
-**Program verdict:** no unconditional surviving prediction — the one falsifiable residue is the conditional a_e(B) trap-slope test below; the org's real assets are its verification discipline, its errata, and its structural rule-outs, and those are exactly what we are writing up.
+**Program verdict:** no unconditional surviving prediction — the one falsifiable residue is the conditional a_e(B) trap-slope test below; the org's real assets are its verification discipline, its errata, and its structural rule-outs — now including a six-mechanism no-go against proper-time-*as-fundamental* (see *Foundations* above) plus a world-class Δm/m null bound — and those are exactly what we are writing up.
 
 ## ❓ Open questions for the program's authors
 
@@ -143,7 +148,8 @@ Split from the former `PyPhysics` monorepo (archived, read-only) with per-file h
 - ✅ **2026-07-05 org-wide review** complete — 143-page report, 32 adversarial verdicts, org knowledge graph
 - ✅ **Tier 1–4 research campaign** complete — 7 tracks, 27 panelled claims (24 confirmed, 3 disputed), headlined by the T2b falsifier
 - ✅ **All review, research, and errata work merged to `main`** across the four research repos (2026-08-07) — every `main` now tells the corrected story
-- 🔄 **In preparation, drafted and adversarially verified, awaiting author sign-off:** the Mercury −1/6 paper (a standalone Research Note for *General Relativity and Gravitation*), the T2b hyperfine falsification note, and the errata packet (E-1 / E-2 / E-3w / E-5 + JPCS corrigendum). DRQM-I is unpublished and its correction is co-author self-correction
+- ✅ **Foundational proper-time-*as-fundamental* arc** complete *(2026-08-13 → 15)* — 8 adversarial reports across gravity, quantum coherence, and electromagnetics; the six-mechanism *well-defined ⟺ inert* no-go and the **Δm/m < 9.7×10⁻²⁹** bound; and the **electromagnetic research path closed out** (all issues resolved, the medium / route-(iii) and Cherenkov-cone consistency fixes on `main`)
+- 🔄 **In preparation, drafted and adversarially verified, awaiting author sign-off:** the Mercury −1/6 paper (a standalone Research Note for *General Relativity and Gravitation*), the T2b hyperfine falsification note, the errata packet (E-1 / E-2 / E-3w / E-5 + JPCS corrigendum), and the **proper-time-gravity viability paper** — *No distinctive proper-time gravity: a viability arc across three constructions, with a world-class off-shell rest-mass bound* (arXiv gr-qc → *Phys. Rev. D*; bibliography staged in commons #29). DRQM-I is unpublished and its correction is co-author self-correction
 - 🗓 Coordination: the human decision queue and the realignment overview live in **[commons](https://github.com/Proper-Time-Physics-Institute/commons)** issues
 
 ## 📖 Glossary
